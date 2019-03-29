@@ -1,0 +1,32 @@
+[
+    {
+      "userId": "user1@smart.com",
+      "role": "superadmin",
+      "customerId":"1"
+    },
+    {
+        "userId": "adminuser1@smart.com",
+        "role": "admin",
+        "customerId":"1"
+    },
+    {
+        "userId": "user2@smart.com",
+        "role": "superadmin",
+        "customerId":"2"
+    },
+    {
+        "userId": "adminuser2@smart.com",
+        "role": "admin",
+        "customerId":"2"
+    },
+    {
+        "userId": "user3@smart.com",
+        "role": "superadmin",
+        "customerId":"3"
+    },
+    {
+        "userId": "adminuser3@smart.com",
+        "role": "admin",
+        "customerId":"3"
+    }
+]
